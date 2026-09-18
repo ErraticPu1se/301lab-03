@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Cris Peng>`
+- **CCID:** `<1854747>`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+used chatgpt for app formating and ask how some functions works 
 
 ## Verbal Collaboration
 
